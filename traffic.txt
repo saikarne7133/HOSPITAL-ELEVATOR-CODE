@@ -1,0 +1,8 @@
+8
+4 12
+10
+Visitor 0.15 C 100 0 0
+Patient 0.25 C 100 0 0 E 1 3
+Suppot Staff 0.3 C 70 30 0 E 1 10
+Medical Staff 0.2 C 70 30 0
+Secutity Staff 0.1 C 95 0 5
